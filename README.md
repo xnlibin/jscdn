@@ -1,7 +1,7 @@
 <!--
  * @Date: 2021-03-08 04:30:21
  * @LastEditors: oldbin
- * @LastEditTime: 2021-03-24 05:42:33
+ * @LastEditTime: 2021-04-11 02:28:35
 -->
 # jscdn
 
@@ -18,6 +18,8 @@ https://cdn.jsdelivr.net/gh/xnlibin/jscdn@main/cdn/fgstatic/jquery.min.js
 https://cdn.jsdelivr.net/gh/xnlibin/jscdn@main/v4.min.js
 https://cdn.jsdelivr.net/gh/xnlibin/jscdn@main/sbaidu.4.1.js
 https://cdn.jsdelivr.net/gh/xnlibin/jscdn@main/main.v4.1.min.js
+https://cdn.jsdelivr.net/gh/xnlibin/jscdn@main/sbaidu.v5.js
+https://cdn.jsdelivr.net/gh/xnlibin/jscdn@main/bdcdn.v5.js
 
 ### 刷新缓存
 
